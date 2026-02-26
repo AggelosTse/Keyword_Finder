@@ -1,12 +1,8 @@
 # Basic Keyword Finder
 
-## Overview
+A fast and efficient Python command-line utility designed to scan text files for specific keywords. This tool is perfect for developers or students who need to quickly audit logs, search through documents, or analyze text data from the terminal.
 
-A script that takes a text file and a specific keyword as parameters and finds how many times the keyword appears in the file.
-
-## Scripts
-
-1.keywordfinder.py
+---
 
 ## Installation
 
